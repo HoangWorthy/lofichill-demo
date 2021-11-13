@@ -1,0 +1,18 @@
+body {
+    background-image: url('/Website/images/chill\ vibe.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 200px;
+}
+h3 {
+    font-style: italic;
+}
+.word {
+    color: white;
+}
+h1 {
+    color: antiquewhite;
+    font-family: 'Press Start 2P' , cursive ;
+}
