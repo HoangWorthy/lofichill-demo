@@ -16,9 +16,23 @@ h1 {
     color: antiquewhite;
     font-family: 'Press Start 2P' , cursive ;
 }
+h2 {
+    font-family: 'Press Start 2P' , cursive ;
+}
 a:link {
     color: aqua;
 }
 a:hover {
     color: gray;
+}
+.welcome {
+    animation: 3s linear 0s infinite running rgb;
+}
+@keyframes rgb{
+    20%{color: red}
+    40%{color: orange}
+    60%{color: yellow}
+    80%{color: green}
+    90%{color: cyan}
+    100%{color: purple}
 }
